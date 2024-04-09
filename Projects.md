@@ -1,6 +1,7 @@
 
 Website
 lsp config for website 
+
 Emulator in Rust - 8051, avr or something NES, SNES or GBA 
 own docker 
 own ci/cd 
