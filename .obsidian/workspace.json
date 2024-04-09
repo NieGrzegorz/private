@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Mieszkanie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b6635a81464e6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily/09-04-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16c1d9bf6d2cb241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mieszkanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/09-04-2024.md",
+                "file": "Mieszkanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/09-04-2024.md",
+                "file": "Mieszkanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +198,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/09-04-2024.md"
+                "file": "Mieszkanie.md"
               }
+            }
+          },
+          {
+            "id": "79e2e4f00efebc05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -195,14 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e7c917d55bace2",
+  "active": "16c1d9bf6d2cb241",
   "lastOpenFiles": [
-    "Mieszkanie.md",
-    "Daily/09-04-2024.md",
-    "Daily",
-    "Ideas.md",
-    "00. Home.md",
+    "Zakupy.md",
     "Projects.md",
+    "Ideas.md",
+    "Daily/10-04-2024.md",
+    "Daily/09-04-2024.md",
+    "00. Home.md",
+    "Mieszkanie.md",
+    "Daily",
     "2024-04-06.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
