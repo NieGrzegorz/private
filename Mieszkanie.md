@@ -31,3 +31,6 @@ aeron herman
 https://www.ikea.com/pl/pl/p/vattenkar-polka-na-biurko-czarny-40541572/
 https://www.ikea.com/pl/pl/p/trixig-zestaw-okablowan-150-szt-40546904/
 https://www.ikea.com/pl/pl/p/tretur-roleta-zaciemniajaca-jasnoszary-40380989/
+
+myjka do szyby w łazience 
+kosz na brudne ubrania 
