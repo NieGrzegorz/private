@@ -27,10 +27,16 @@ Regał do komórki lokatorskiej
 
 stelaż biurka elektrycznego 
 blat do biurka 
-aeron herman 
+aeron herman miller
 https://www.ikea.com/pl/pl/p/vattenkar-polka-na-biurko-czarny-40541572/
 https://www.ikea.com/pl/pl/p/trixig-zestaw-okablowan-150-szt-40546904/
 https://www.ikea.com/pl/pl/p/tretur-roleta-zaciemniajaca-jasnoszary-40380989/
 
 myjka do szyby w łazience 
 kosz na brudne ubrania 
+wiadro na skropliny 
+drabina 
+lampa do salonu 
+stolik kawowy 
+prześcieradło i 2 poszewki (niebrązowe)
+kołdra letnia
