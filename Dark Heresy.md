@@ -23,3 +23,6 @@ operate
 
 int - 250 
 parry 100
+
+
++ 10 do testu 
