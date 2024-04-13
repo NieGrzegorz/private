@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "936620df6cf19c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Heresy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddaa128db603a687",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mieszkanie.md",
+                "file": "Dark Heresy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mieszkanie.md",
+                "file": "Dark Heresy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mieszkanie.md"
+                "file": "Dark Heresy.md"
               }
             }
           },
@@ -203,13 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e7c917d55bace2",
+  "active": "936620df6cf19c95",
   "lastOpenFiles": [
+    "Mieszkanie.md",
+    "Dark Heresy.md",
     "Ideas.md",
     "Daily/09-04-2024.md",
     "Zakupy.md",
     "Daily/10-04-2024.md",
-    "Mieszkanie.md",
     "Daily",
     "00. Home.md",
     "Projects.md",
