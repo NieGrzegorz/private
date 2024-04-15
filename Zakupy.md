@@ -1,5 +1,5 @@
 Poziomica
-Wkrętarko wiertarka 
+Wkrętarko wiertarka - parkside 
 Zestaw kluczy
 Wkrętaki lepsze 
 Wkrętak elektryczny
