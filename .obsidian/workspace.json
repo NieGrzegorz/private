@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/To take look at.md",
+                "file": "Daily/18-04-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/To take look at.md",
+                "file": "Daily/18-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/To take look at.md",
+                "file": "Daily/18-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/To take look at.md"
+                "file": "Daily/18-04-2024.md"
               }
             }
           },
@@ -229,14 +229,14 @@
   },
   "active": "b28fdb334818d7cc",
   "lastOpenFiles": [
+    "Daily/16-04-2024.md",
+    "Daily/18-04-2024.md",
+    "RPG/To take look at.md",
     "Ideas.md",
     "Projects.md",
-    "Daily/16-04-2024.md",
-    "RPG/To take look at.md",
     "RPG/Dark Heresy.md",
     "RPG",
     "Dark Heresy.md",
-    "Daily/16-04-2024.md",
     "Daily/10-04-2024.md",
     "Daily/09-04-2024.md",
     "Zakupy.md",
