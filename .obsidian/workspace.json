@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/22-04-2022.md",
+                "file": "Daily/25-04-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/22-04-2022.md",
+                "file": "Daily/25-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/22-04-2022.md",
+                "file": "Daily/25-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/22-04-2022.md"
+                "file": "Daily/25-04-2024.md"
               }
             }
           },
@@ -217,11 +217,12 @@
   },
   "active": "01e7c917d55bace2",
   "lastOpenFiles": [
-    "Daily/19-04-2024.md",
-    "Daily/22-04-2022.md",
-    "Mieszkanie.md",
-    "00. Home.md",
     "Ideas.md",
+    "Daily/25-04-2024.md",
+    "00. Home.md",
+    "Daily/22-04-2022.md",
+    "Daily/19-04-2024.md",
+    "Mieszkanie.md",
     "Daily/18-04-2024.md",
     "Daily/16-04-2024.md",
     "RPG/To take look at.md",
