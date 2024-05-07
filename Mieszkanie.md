@@ -1,5 +1,6 @@
-Karnisze drewniane
-Zasłony welurowe
+Szyny sufitowe
+
+Zasłony welurowe - blackout
 Plisy 
 
 listwy przypodłogowe - białe 
@@ -16,9 +17,8 @@ Pojemniki do szuflady w łazience
 
 meble z palet na balkon 
 lampki wiszące do sypialni
-lampki wiszące do salonu 
 szafka na buty z siedziskiem 
-wieszak na kurtki do przedpokoju 
+wieszak na kurtki do przedpokoju - ikea hemnes
 
 stół okrągły - jeśli będzie spot 
 pół hookery 
@@ -34,7 +34,6 @@ https://www.ikea.com/pl/pl/p/tretur-roleta-zaciemniajaca-jasnoszary-40380989/
 
 myjka do szyby w łazience 
 kosz na brudne ubrania 
-wiadro na skropliny 
 drabina 
 lampa do salonu 
 stolik kawowy 
@@ -43,7 +42,6 @@ kołdra letnia
 
 parownica / żelazko + deska do prasowania 
 
-szafa songmics 
 https://www.ikea.com/pl/pl/p/hemnes-lawka-z-polkami-na-buty-bialy-00243800/
 https://www.ikea.com/pl/pl/p/hemnes-polka-na-kapelusze-bialy-60243798/
 https://www.ikea.com/pl/pl/p/baggmuck-mata-na-buty-do-wewnatrz-na-zewnatrz-szary-60329711/
@@ -52,9 +50,8 @@ https://www.ikea.com/pl/pl/p/oesterild-wycieraczka-wewnetrzna-ciemnoszary-405111
 https://www.ikea.com/pl/pl/p/nyskoeljd-podkladka-do-suszenia-naczyn-ciemnoszary-00451059/
 https://www.ikea.com/pl/pl/p/uppdatera-mata-szuflady-szary-50549836/
 https://www.ikea.com/pl/pl/p/rinnig-suszarka-do-naczyn-dwustronna-10387261/
-https://www.ikea.com/pl/pl/p/rinnig-uchwyt-na-talerze-70387258/
 https://www.ikea.com/pl/pl/p/variera-mata-szuflady-bialy-00238865/
-https://www.ikea.com/pl/pl/p/uppdatera-regulowany-organizer-do-szuflady-szary-50544184/
+
 https://www.ikea.com/pl/pl/p/uppdatera-organizer-szuflady-antracyt-60460008/
 
 

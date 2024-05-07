@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/26-04-2024.md",
+                "file": "Daily/04-2024/26-04-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18823d543071f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mieszkanie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/26-04-2024.md",
+                "file": "Mieszkanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/26-04-2024.md",
+                "file": "Mieszkanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/26-04-2024.md"
+                "file": "Mieszkanie.md"
               }
             }
           },
@@ -154,29 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e7c917d55bace2",
+  "active": "d18823d543071f87",
   "lastOpenFiles": [
-    "Daily/25-04-2024.md",
-    "Daily/26-04-2024.md",
+    "Projects.md",
+    "Zakupy.md",
+    "Mieszkanie.md",
     "Ideas.md",
     "00. Home.md",
-    "Daily/22-04-2022.md",
-    "Daily/19-04-2024.md",
-    "Mieszkanie.md",
-    "Daily/18-04-2024.md",
-    "Daily/16-04-2024.md",
-    "RPG/To take look at.md",
-    "Projects.md",
     "RPG/Dark Heresy.md",
+    "Dark Heresy.md",
+    "Daily/05-2024/05-05-2024.md",
+    "Daily/04-2024/25-04-2024.md",
+    "Daily/05-2024",
+    "Daily/04-2024/26-04-2024.md",
+    "Daily/04-2024",
+    "Daily/04-2024/22-04-2022.md",
+    "Daily/04-2024/19-04-2024.md",
+    "Daily/04-2024/18-04-2024.md",
+    "Daily/04-2024/16-04-2024.md",
+    "RPG/To take look at.md",
     "RPG",
-    "Dark Heresy.md",
-    "Daily/10-04-2024.md",
-    "Daily/09-04-2024.md",
-    "Zakupy.md",
-    "Dark Heresy.md",
+    "Daily/04-2024/10-04-2024.md",
+    "Daily/04-2024/09-04-2024.md",
     "RPG",
     "Daily",
-    "Projects.md",
     "2024-04-06.md",
     "Untitled.canvas",
     "Untitled 1.canvas"

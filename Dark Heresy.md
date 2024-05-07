@@ -1,1 +1,0 @@
-500 exp do wydania
