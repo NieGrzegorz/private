@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mieszkanie.md",
+                "file": "Daily/05-2024/07-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mieszkanie.md",
+                "file": "Daily/05-2024/07-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mieszkanie.md",
+                "file": "Daily/05-2024/07-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mieszkanie.md"
+                "file": "Daily/05-2024/07-05-2024.md"
               }
             }
           },
@@ -169,14 +169,15 @@
   },
   "active": "d18823d543071f87",
   "lastOpenFiles": [
+    "Daily/05-2024/06-05-2024.md",
+    "Daily/05-2024/07-05-2024.md",
+    "Mieszkanie.md",
     "Projects.md",
     "Zakupy.md",
-    "Mieszkanie.md",
     "Ideas.md",
     "00. Home.md",
     "RPG/Dark Heresy.md",
     "Dark Heresy.md",
-    "Daily/05-2024/05-05-2024.md",
     "Daily/04-2024/25-04-2024.md",
     "Daily/05-2024",
     "Daily/04-2024/26-04-2024.md",
