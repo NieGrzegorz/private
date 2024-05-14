@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Home.md",
+                "file": "Daily/05-2024/14-05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Home.md",
+                "file": "Daily/05-2024/14-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Home.md",
+                "file": "Daily/05-2024/14-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Home.md"
+                "file": "Daily/05-2024/14-05-2024.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   "active": "01e7c917d55bace2",
   "lastOpenFiles": [
     "Daily/Daily.md",
+    "Daily/05-2024/05-2024.md",
+    "Daily/05-2024/07-05-2024.md",
+    "Daily/05-2024/14-05-2024.md",
+    "Daily/04-2024/04-2024.md",
     "00. Home.md",
     "Zakupy.md",
     "Ideas.md",
