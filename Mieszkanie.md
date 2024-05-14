@@ -1,14 +1,8 @@
-Szyny sufitowe
-
-Zasłony welurowe - blackout
 Plisy 
-
 listwy przypodłogowe - białe 
-
-Narożnik
 fotel uszak + podnóżek
 lampa stojąca do home office
-kalax jako rtv?
+kalax jako rtv? 
 Billy? 
 
 łóżko drewniane 
@@ -20,7 +14,6 @@ szafka na buty z siedziskiem
 wieszak na kurtki do przedpokoju - ikea hemnes
 
 stół okrągły - jeśli będzie spot 
-pół hookery 
 
 Regał do komórki lokatorskiej
 
@@ -32,19 +25,15 @@ https://www.ikea.com/pl/pl/p/trixig-zestaw-okablowan-150-szt-40546904/
 https://www.ikea.com/pl/pl/p/tretur-roleta-zaciemniajaca-jasnoszary-40380989/
 
 kosz na brudne ubrania 
-drabina 
 lampa do salonu 
 stolik kawowy 
-prześcieradło i 2 poszewki (niebrązowe)
 kołdra letnia
-
 parownica / żelazko + deska do prasowania 
 
 https://www.ikea.com/pl/pl/p/hemnes-lawka-z-polkami-na-buty-bialy-00243800/
 https://www.ikea.com/pl/pl/p/hemnes-polka-na-kapelusze-bialy-60243798/
 https://www.ikea.com/pl/pl/p/baggmuck-mata-na-buty-do-wewnatrz-na-zewnatrz-szary-60329711/
 https://www.ikea.com/pl/pl/p/fixa-samoprzylepny-ochraniacz-podlogi-szary-00431151/
-https://www.ikea.com/pl/pl/p/oesterild-wycieraczka-wewnetrzna-ciemnoszary-40511117/ 
 https://www.ikea.com/pl/pl/p/nyskoeljd-podkladka-do-suszenia-naczyn-ciemnoszary-00451059/
 https://www.ikea.com/pl/pl/p/uppdatera-mata-szuflady-szary-50549836/
 https://www.ikea.com/pl/pl/p/rinnig-suszarka-do-naczyn-dwustronna-10387261/
