@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/05-2024/15-05.md",
+                "file": "Daily/05-2024/05-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05-2024/15-05.md",
+                "file": "Daily/05-2024/05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05-2024/15-05.md",
+                "file": "Daily/05-2024/05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05-2024/15-05.md"
+                "file": "Daily/05-2024/05-2024.md"
               }
             }
           },
@@ -156,16 +156,21 @@
   },
   "active": "01e7c917d55bace2",
   "lastOpenFiles": [
-    "Daily/05-2024/14-05-2024.md",
-    "Daily/05-2024/15-05.md",
-    "Daily/Daily.md",
-    "Daily/05-2024/05-2024.md",
+    "Daily/05-2024/06-05-2024.md",
     "Daily/05-2024/07-05-2024.md",
+    "Daily/05-2024/14-05-2024.md",
+    "Daily/05-2024/15-05-2024.md",
+    "Daily/05-2024/16-05-2024.md",
+    "Daily/05-2024/17-05-2024.md",
+    "Daily/05-2024/05-2024.md",
+    "Daily/Daily.md",
+    "Daily/06-2024/06-2024.md",
+    "Daily/06-2024",
+    "Mieszkanie.md",
     "Daily/04-2024/04-2024.md",
     "00. Home.md",
     "Zakupy.md",
     "Ideas.md",
-    "Mieszkanie.md",
     "Projects/Projects.md",
     "Projects/Rower miejski.md",
     "Projects/Website.md",
@@ -180,10 +185,6 @@
     "RPG/To take look at.md",
     "RPG/Dark Heresy.md",
     "RPG",
-    "Dark Heresy.md",
-    "Daily/10-04-2024.md",
-    "Daily/09-04-2024.md",
-    "Dark Heresy.md",
     "RPG",
     "Daily",
     "Untitled.canvas",

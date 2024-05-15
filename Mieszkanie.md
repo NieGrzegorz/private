@@ -15,7 +15,7 @@ wieszak na kurtki do przedpokoju - ikea hemnes
 
 stół okrągły - jeśli będzie spot 
 
-Regał do komórki lokatorskiej
+Regał do komórki lokatorskiej - kątownik perforowany 35x35x2
 
 stelaż biurka elektrycznego 
 blat do biurka 
