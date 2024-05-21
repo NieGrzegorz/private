@@ -6,6 +6,9 @@ Back to [[Projects]]
 ### Przerzutki tylne 
 - Deore 11 
 
+Bill of materials: 
+
+
 ## Dodatkowy osprzęt 
  - Hamulce tarczowe 
 
@@ -18,4 +21,5 @@ Back to [[Projects]]
 - Siodełko brązowe 
 - Uchwyty brązowe 
 - Błotniki aluminiowe 
+
 

@@ -1,4 +1,4 @@
-Plisy 
+Plisy albo inne rolety (ścienne)
 listwy przypodłogowe - białe 
 fotel uszak + podnóżek
 lampa stojąca do home office
