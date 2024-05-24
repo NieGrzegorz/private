@@ -45,3 +45,24 @@ https://www.ikea.com/pl/pl/p/uppdatera-organizer-szuflady-antracyt-60460008/
 https://www.amazon.pl/SONGMICS-uchwytami-przegr%C3%B3dki-naruralny-LCB091N01/dp/B08N9KHTL5/ref=sr_1_18?_encoding=UTF8&content-id=amzn1.sym.dc63a72e-141d-4767-9611-5c560b470a9c&dib=eyJ2IjoiMSJ9.wYCkGAcNt81ut8VD45XbTBrEUh0-5-l4RvnhIgQt-J_NeGwGGfxB0S6iC2ydLW4QOljdtjMSHuOynVfYK0bICbxBBFMyID2YB_HVJ4czx59XobEXliD-PvE6ZXWC2SSCa_ezV4Wctq6jMuegVDwJjKxID5C_ukpt6yCaB3gcMwxBodD8TeqLZepXJrpdedBJDxRQqO58y66idwTufLX-tK-JvOyipri4xoCgAL5O_5Y.Q_Z_5FeAitEIi1K1mRgB-qlZPDrGQ4YT1PlABHau7Hs&dib_tag=se&pd_rd_r=8dedc7ac-8b54-49fd-a560-72b2662e0453&pd_rd_w=9IBWm&pd_rd_wg=s2yNs&pf_rd_p=dc63a72e-141d-4767-9611-5c560b470a9c&pf_rd_r=3AWY59J5KQAG8GCNYD42&qid=1713344808&refinements=p_89%3ASONGMICS&rnid=21074364031&s=home&sr=1-18&th=1
 
 https://www.amazon.pl/SONGMICS-przechowywania-organizer-szufladami-biustonosz/dp/B07NRGY95T/ref=sr_1_51?_encoding=UTF8&content-id=amzn1.sym.dc63a72e-141d-4767-9611-5c560b470a9c&dib=eyJ2IjoiMSJ9.zbaGvnZjUqJ1Bnk-iSB3rGMHr8vE2mdmabUH_BXvNRJWnnMkgSIE_nrnX9IKyitvor3B-sl1o5DxYb84XYuy8mXTZxXndesfm1bKDg7fubipb7F46_7xvX6KTbwg9RVrZB7cJV0IHRoAh4U-XFgA4j74IK3r234lYbBlqZ7mLCk.32XeqwPKWxDrTDhW9zzQkawIIerFlvt9BQ0WbSObC18&dib_tag=se&pd_rd_r=8dedc7ac-8b54-49fd-a560-72b2662e0453&pd_rd_w=9IBWm&pd_rd_wg=s2yNs&pf_rd_p=dc63a72e-141d-4767-9611-5c560b470a9c&pf_rd_r=3AWY59J5KQAG8GCNYD42&qid=1713344901&refinements=p_89%3ASONGMICS&rnid=21074364031&s=home&sr=1-51
+
+
+Naczynia (talerze duże i małe, miski)
+Podkładki 
+Szklanki 
+Kubki 4 dodatkowe 
+Patelnie 
+Deski do krojenia 
+Noże 
+Kocyki 
+Podusie dekoracyjne 
+Telewizor 
+Szpatułki 
+Chochla 
+Cedzak 
+Dzbanek do herbaty 
+Nowy server do kawy
+Keksówka
+Kamień do pizzy 
+Naczynie żaroodporne 
+Zwykła blacha do ciasta 
