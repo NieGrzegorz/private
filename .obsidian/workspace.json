@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/05-2024/29-05-2024.md",
+                "file": "Daily/06-2024/04-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05-2024/29-05-2024.md",
+                "file": "Daily/06-2024/04-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05-2024/29-05-2024.md",
+                "file": "Daily/06-2024/04-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05-2024/29-05-2024.md"
+                "file": "Daily/06-2024/04-06-2024.md"
               }
             }
           },
@@ -154,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e7c917d55bace2",
+  "active": "a3c248a0729c4271",
   "lastOpenFiles": [
-    "Daily/05-2024/27-05-2024.md",
-    "Daily/05-2024/29-05-2024.md",
-    "Daily/Daily.md",
     "Daily/06-2024/06-2024.md",
+    "Daily/06-2024/04-06-2024.md",
+    "Daily/06-2024/03-06-2024.md",
+    "Daily/05-2024/29-05-2024.md",
+    "Daily/05-2024/27-05-2024.md",
+    "Daily/Daily.md",
     "Daily/05-2024/05-2024.md",
     "22-05-2024.md",
     "RPG/To take look at.md",
@@ -181,8 +183,6 @@
     "Mieszkanie.md",
     "Daily/04-2024/04-2024.md",
     "00. Home.md",
-    "Zakupy.md",
-    "Ideas.md",
     "Projects",
     "RPG",
     "RPG",
